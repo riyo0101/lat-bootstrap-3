@@ -9,6 +9,7 @@ body {
 .jumbotron img {
     width: 180px;
     border: 5px solid #333;
+    background-color: #333;
 }
 
 .jumbotron p {
@@ -27,6 +28,10 @@ section {
 
 .portfolio {
     background-color: #eee;
+}
+
+.portfolio img {
+    background-color: #666;
 }
 
 .about p {
