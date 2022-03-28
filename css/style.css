@@ -4,7 +4,13 @@ html {
 
 body {
     margin-bottom: 120px;
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+.logo-navbar {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: "arial";
 }
 
 .jumbotron img {
@@ -15,6 +21,7 @@ body {
 
 .jumbotron h1 {
     font-weight: bold;
+    font-family: 'didot';
 }
 
 .jumbotron p {
