@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "Didot";
+    src: url("fonts/251039e6849ad977a8bfc40b564dce89.eot");
+    src: url("fonts/fonts/251039e6849ad977a8bfc40b564dce89.eot?#iefix") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("fonts/fonts/251039e6849ad977a8bfc40b564dce89.woff2") format("woff2"),
+        /* chrome、firefox */
+        url("fonts/251039e6849ad977a8bfc40b564dce89.woff") format("woff"),
+        /* chrome、firefox */
+        url("fonts/fonts/251039e6849ad977a8bfc40b564dce89.ttf") format("truetype"),
+        /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+        url("fonts/251039e6849ad977a8bfc40b564dce89.svg#Didot") format("svg");
+}
+
 html {
     position: relative;
 }
@@ -8,15 +22,15 @@ body {
 }
 
 .logo-navbar {
-    font-size: 19px;
     font-weight: bold;
     font-family: "arial";
 }
 
 .jumbotron img {
     width: 180px;
-    border: 5px solid #333;
     background-color: #333;
+    border: 5px solid #333;
+
 }
 
 .jumbotron h1 {
