@@ -13,9 +13,14 @@ body {
     background-color: #333;
 }
 
+.jumbotron h1 {
+    font-weight: bold;
+}
+
 .jumbotron p {
     font-size: 16px;
     text-transform: uppercase;
+
 }
 
 hr {
